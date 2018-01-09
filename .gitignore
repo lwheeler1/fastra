@@ -1,0 +1,7 @@
+
+
+# Dependency directories
+node_modules
+jspm_packages	
+public/.DS_Store
+.DS_Store
