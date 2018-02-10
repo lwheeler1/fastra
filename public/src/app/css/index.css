@@ -1,6 +1,45 @@
 body{
 	overflow: hidden;
 }
+.topBanner{
+	/*margin: 10px;*/
+	width: 100%;
+	height: 10%;
+	display: inline-block;
+	vertical-align: top;
+	overflow: auto;
+	background-color: #7478f7;
+}
+.leftColumn{
+	/*margin: 10px;*/
+	width: 20%;
+	height: 100%;
+	display: inline-block;
+	vertical-align: top;
+	overflow: auto;
+	/*background-color: #7478f7;*/
+}
+.middleColumn{
+	/*margin: 10px;*/
+	width: 70%;
+	height: 100%;
+	display: inline-block;
+	vertical-align: top;
+	overflow: auto;
+	background-color: #7478f7;
+}
+.rightColumn{
+	/*margin: 10px;*/
+	width: 10%;
+	height: 100%;
+	display: inline-block;
+	vertical-align: top;
+	overflow: auto;
+	/*background-color: #7478f7;*/
+}
+
+
+
 
 button, .btn {
 	border-radius: 10px;
